@@ -18,13 +18,17 @@ I build modern, responsive, and interactive web experiences with a focus on clea
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
-HTML5 • CSS3 • JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Tools**
+### Tools
 
-Git • GitHub • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
