@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Taha Golestani 👋
 
-<!--
-**tahagolestani/tahagolestani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
 
-Here are some ideas to get you started:
+I build modern, responsive, and interactive web experiences with a focus on clean design and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Frontend Developer
+* 🎨 Interested in modern UI/UX and interactive web experiences
+* 📱 Focused on responsive and mobile-friendly design
+* 🌱 Currently improving my frontend development skills
+* 🚀 Building projects to grow my portfolio
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+HTML5 • CSS3 • JavaScript
+
+**Tools**
+
+Git • GitHub • VS Code
+
+---
+
+## 🌟 Featured Project
+
+### TexoR — Personal Portfolio
+
+A modern, responsive multi-page frontend portfolio designed to showcase my projects, skills, and experience.
+
+🔗 **Live Demo:** https://tahagolestani.github.io/TexoR/
+
+💻 **Repository:** https://github.com/tahagolestani/TexoR
+
+---
+
+## 📫 Contact
+
+If you'd like to connect or collaborate, feel free to reach out.
+
+📧 **Email: taha.golestani2866@gmail.com
+
+---
+
+### Thanks for visiting my profile! 🚀
