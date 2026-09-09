@@ -32,15 +32,22 @@ I build modern, responsive, and interactive web experiences with a focus on clea
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Featured Projects
 
-### TexoR — Personal Portfolio
+### 🌐 TexoR — Personal Portfolio
 
-A modern, responsive multi-page frontend portfolio designed to showcase my projects, skills, and experience.
+A modern, responsive multi-page portfolio built to showcase my frontend development skills, projects, and design approach.
 
-🔗 **Live Demo:** https://tahagolestani.github.io/TexoR/
+**Tech:** HTML5 · CSS3 · JavaScript
 
-💻 **Repository:** https://github.com/tahagolestani/TexoR
+🔗 [Live Demo](https://tahagolestani.github.io/TexoR/)
+💻 [Source Code](https://github.com/tahagolestani/TexoR)
+
+---
+
+### 📌 More Projects Coming Soon
+
+I'm continuously building new frontend projects to explore modern interfaces, animations, responsive layouts, and interactive experiences.
 
 ---
 
