@@ -45,6 +45,13 @@ A modern, responsive multi-page portfolio built to showcase my frontend developm
 
 ---
 
+## 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tahagolestani&show_icons=true&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahagolestani&layout=compact&hide_border=true&theme=transparent" height="165">
+</p>
+
 ### 📌 More Projects Coming Soon
 
 I'm continuously building new frontend projects to explore modern interfaces, animations, responsive layouts, and interactive experiences.
