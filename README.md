@@ -43,6 +43,14 @@ A modern, responsive multi-page portfolio built to showcase my frontend developm
 🔗 [Live Demo](https://tahagolestani.github.io/TexoR/)
 💻 [Source Code](https://github.com/tahagolestani/TexoR)
 
+### 🌍 World Clock
+
+A modern and responsive world clock application featuring real-time clocks for multiple cities, Dark / Light Mode, and English / Persian language support.
+
+**Tech:** HTML5 · CSS3 · JavaScript
+
+🔗 [Live Demo](https://tahagolestani.github.io/World-Clock/) · 💻 [Source Code](https://github.com/tahagolestani/World-Clock)
+
 ---
 
 ## 📊 GitHub Activity
